@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "townfolk:block/market_stall"
+    },
+    "facing=west": {
+      "model": "townfolk:block/market_stall",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "townfolk:block/market_stall",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "townfolk:block/market_stall",
+      "y": 270
+    }
+  }
+}

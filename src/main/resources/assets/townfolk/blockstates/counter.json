@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "townfolk:block/counter"
+    },
+    "facing=west": {
+      "model": "townfolk:block/counter",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "townfolk:block/counter",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "townfolk:block/counter",
+      "y": 270
+    }
+  }
+}

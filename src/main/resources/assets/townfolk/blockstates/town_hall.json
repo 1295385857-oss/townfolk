@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "townfolk:block/town_hall"
+    }
+  }
+}

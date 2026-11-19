@@ -1,0 +1,138 @@
+{
+  "textures": {
+    "sack": "townfolk:block/goods_sack",
+    "tie": "townfolk:block/goods_tie",
+    "seed": "townfolk:block/goods_seed",
+    "particle": "townfolk:block/goods_sack"
+  },
+  "elements": [
+    {
+      "from": [
+        5,
+        0,
+        5
+      ],
+      "to": [
+        11,
+        5,
+        11
+      ],
+      "faces": {
+        "north": {
+          "texture": "#sack"
+        },
+        "south": {
+          "texture": "#sack"
+        },
+        "east": {
+          "texture": "#sack"
+        },
+        "west": {
+          "texture": "#sack"
+        },
+        "up": {
+          "texture": "#sack"
+        },
+        "down": {
+          "texture": "#sack"
+        }
+      }
+    },
+    {
+      "from": [
+        6,
+        5,
+        6
+      ],
+      "to": [
+        10,
+        6,
+        10
+      ],
+      "faces": {
+        "north": {
+          "texture": "#sack"
+        },
+        "south": {
+          "texture": "#sack"
+        },
+        "east": {
+          "texture": "#sack"
+        },
+        "west": {
+          "texture": "#sack"
+        },
+        "up": {
+          "texture": "#sack"
+        },
+        "down": {
+          "texture": "#sack"
+        }
+      }
+    },
+    {
+      "from": [
+        5.6,
+        4,
+        5.6
+      ],
+      "to": [
+        10.4,
+        4.6,
+        10.4
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tie"
+        },
+        "south": {
+          "texture": "#tie"
+        },
+        "east": {
+          "texture": "#tie"
+        },
+        "west": {
+          "texture": "#tie"
+        },
+        "up": {
+          "texture": "#tie"
+        },
+        "down": {
+          "texture": "#tie"
+        }
+      }
+    },
+    {
+      "from": [
+        6.5,
+        6,
+        6.5
+      ],
+      "to": [
+        9.5,
+        6.5,
+        9.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#seed"
+        },
+        "south": {
+          "texture": "#seed"
+        },
+        "east": {
+          "texture": "#seed"
+        },
+        "west": {
+          "texture": "#seed"
+        },
+        "up": {
+          "texture": "#seed"
+        },
+        "down": {
+          "texture": "#seed"
+        }
+      }
+    }
+  ]
+}

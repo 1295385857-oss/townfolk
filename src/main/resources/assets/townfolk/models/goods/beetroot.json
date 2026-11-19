@@ -1,0 +1,137 @@
+{
+  "textures": {
+    "beet": "townfolk:block/goods_beet",
+    "leaf": "townfolk:block/goods_leaf",
+    "particle": "townfolk:block/goods_beet"
+  },
+  "elements": [
+    {
+      "from": [
+        5.5,
+        0,
+        5.5
+      ],
+      "to": [
+        10.5,
+        4,
+        10.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#beet"
+        },
+        "south": {
+          "texture": "#beet"
+        },
+        "east": {
+          "texture": "#beet"
+        },
+        "west": {
+          "texture": "#beet"
+        },
+        "up": {
+          "texture": "#beet"
+        },
+        "down": {
+          "texture": "#beet"
+        }
+      }
+    },
+    {
+      "from": [
+        6.5,
+        4,
+        6.5
+      ],
+      "to": [
+        9.5,
+        5,
+        9.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#beet"
+        },
+        "south": {
+          "texture": "#beet"
+        },
+        "east": {
+          "texture": "#beet"
+        },
+        "west": {
+          "texture": "#beet"
+        },
+        "up": {
+          "texture": "#beet"
+        },
+        "down": {
+          "texture": "#beet"
+        }
+      }
+    },
+    {
+      "from": [
+        7.5,
+        5,
+        7.5
+      ],
+      "to": [
+        8.5,
+        8,
+        8.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#leaf"
+        },
+        "south": {
+          "texture": "#leaf"
+        },
+        "east": {
+          "texture": "#leaf"
+        },
+        "west": {
+          "texture": "#leaf"
+        },
+        "up": {
+          "texture": "#leaf"
+        },
+        "down": {
+          "texture": "#leaf"
+        }
+      }
+    },
+    {
+      "from": [
+        6,
+        7,
+        7
+      ],
+      "to": [
+        10,
+        9,
+        9
+      ],
+      "faces": {
+        "north": {
+          "texture": "#leaf"
+        },
+        "south": {
+          "texture": "#leaf"
+        },
+        "east": {
+          "texture": "#leaf"
+        },
+        "west": {
+          "texture": "#leaf"
+        },
+        "up": {
+          "texture": "#leaf"
+        },
+        "down": {
+          "texture": "#leaf"
+        }
+      }
+    }
+  ]
+}

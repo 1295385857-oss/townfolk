@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "townfolk:shelf",
+    "townfolk:counter",
+    "townfolk:market_stall",
+    "townfolk:cash_register"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=south,half=lower": {
+      "model": "townfolk:block/shelf_lower"
+    },
+    "facing=south,half=upper": {
+      "model": "townfolk:block/shelf_upper"
+    },
+    "facing=west,half=lower": {
+      "model": "townfolk:block/shelf_lower",
+      "y": 90
+    },
+    "facing=west,half=upper": {
+      "model": "townfolk:block/shelf_upper",
+      "y": 90
+    },
+    "facing=north,half=lower": {
+      "model": "townfolk:block/shelf_lower",
+      "y": 180
+    },
+    "facing=north,half=upper": {
+      "model": "townfolk:block/shelf_upper",
+      "y": 180
+    },
+    "facing=east,half=lower": {
+      "model": "townfolk:block/shelf_lower",
+      "y": 270
+    },
+    "facing=east,half=upper": {
+      "model": "townfolk:block/shelf_upper",
+      "y": 270
+    }
+  }
+}

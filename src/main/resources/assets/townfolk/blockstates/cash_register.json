@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "coins=0,facing=south": {
+      "model": "townfolk:block/cash_register"
+    },
+    "coins=0,facing=west": {
+      "model": "townfolk:block/cash_register",
+      "y": 90
+    },
+    "coins=0,facing=north": {
+      "model": "townfolk:block/cash_register",
+      "y": 180
+    },
+    "coins=0,facing=east": {
+      "model": "townfolk:block/cash_register",
+      "y": 270
+    },
+    "coins=1,facing=south": {
+      "model": "townfolk:block/cash_register_coins1"
+    },
+    "coins=1,facing=west": {
+      "model": "townfolk:block/cash_register_coins1",
+      "y": 90
+    },
+    "coins=1,facing=north": {
+      "model": "townfolk:block/cash_register_coins1",
+      "y": 180
+    },
+    "coins=1,facing=east": {
+      "model": "townfolk:block/cash_register_coins1",
+      "y": 270
+    },
+    "coins=2,facing=south": {
+      "model": "townfolk:block/cash_register_coins2"
+    },
+    "coins=2,facing=west": {
+      "model": "townfolk:block/cash_register_coins2",
+      "y": 90
+    },
+    "coins=2,facing=north": {
+      "model": "townfolk:block/cash_register_coins2",
+      "y": 180
+    },
+    "coins=2,facing=east": {
+      "model": "townfolk:block/cash_register_coins2",
+      "y": 270
+    },
+    "coins=3,facing=south": {
+      "model": "townfolk:block/cash_register_coins3"
+    },
+    "coins=3,facing=west": {
+      "model": "townfolk:block/cash_register_coins3",
+      "y": 90
+    },
+    "coins=3,facing=north": {
+      "model": "townfolk:block/cash_register_coins3",
+      "y": 180
+    },
+    "coins=3,facing=east": {
+      "model": "townfolk:block/cash_register_coins3",
+      "y": 270
+    }
+  }
+}
